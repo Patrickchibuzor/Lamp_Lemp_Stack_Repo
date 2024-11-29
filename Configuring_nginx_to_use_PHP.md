@@ -9,7 +9,7 @@
   fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
   include fastcgi_params; 
 	} '
-![configure_lemp_php](\IMAGES\configure_lemp_php.png "PHP CONFIGURATION")
+![configure_lemp_php](./IMAGES/configure_lemp_php.png "PHP CONFIGURATION")
 # be sure to insert your php version #
 # Test the Nginx configuration for errors:
  'sudo nginx -t '
